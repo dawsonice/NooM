@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NooM</string>
+    <string name="listview">ListView</string>
+    <string name="viewgroup">ViewGroup</string>
+
+</resources>
